@@ -19,7 +19,7 @@ public class moveZerosToEnd {
     }
 
     public static void main(String[] args) {
-        int[] arr = {0,1,9,2,0,4,3,0,2,0};
+        int[] arr = {1,0};
         moveZeroesToEnd(arr);
         for(int x:arr)
             System.out.print(x+",");
