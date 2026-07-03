@@ -16,6 +16,6 @@ public class reverseString {
 
     public static void main(String[] args) {
         String s = "Reverse";
-        char[] ch = new char[s];
+        char[] ch = s.toCharArray();
     }
 }
