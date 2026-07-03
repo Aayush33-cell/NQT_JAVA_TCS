@@ -1,3 +1,5 @@
+package arrayPractice;
+
 public class moveZerosToEnd {
 
     static void swap(int[] arr,int i,int j){

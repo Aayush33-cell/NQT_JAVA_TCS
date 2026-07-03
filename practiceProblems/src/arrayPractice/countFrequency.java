@@ -1,3 +1,5 @@
+package arrayPractice;
+
 import java.util.HashMap;
 
 public class countFrequency {

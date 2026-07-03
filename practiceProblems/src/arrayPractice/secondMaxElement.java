@@ -1,3 +1,5 @@
+package arrayPractice;
+
 public class secondMaxElement {
 
     static int secondMaxElement(int[] arr){

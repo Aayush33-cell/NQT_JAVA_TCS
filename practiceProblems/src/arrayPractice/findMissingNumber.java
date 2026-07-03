@@ -1,3 +1,5 @@
+package arrayPractice;
+
 public class findMissingNumber {
 
     static int missingNumber(int[] arr){

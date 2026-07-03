@@ -1,3 +1,5 @@
+package arrayPractice;
+
 public class rotateArrayByKthPosition {
 
     static void reverse(int[] arr,int start,int end){

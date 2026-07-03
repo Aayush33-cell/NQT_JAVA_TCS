@@ -1,3 +1,5 @@
+package arrayPractice;
+
 public class findDuplicateInArray {
 
     static int findDuplicate(int[] arr){
