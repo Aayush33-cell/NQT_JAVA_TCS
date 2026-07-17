@@ -21,7 +21,7 @@ public class moveZerosToEnd {
     }
 
     public static void main(String[] args) {
-        int[] arr = {1,0};
+        int[] arr = {-1,-2,-2,-4,0,0,-2,-1};
         moveZeroesToEnd(arr);
         for(int x:arr)
             System.out.print(x+",");
